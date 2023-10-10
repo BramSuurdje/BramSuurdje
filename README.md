@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=BramSuurdje&icon=0&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Br4m) 
 
@@ -7,5 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=BramSuurdje&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BramSuurdje&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BramSuurdje&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
