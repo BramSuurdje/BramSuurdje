@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bram</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Proxmox Helper Scripts Website](https://github.com/search?q=repo%3ABramSuurdje%2Fproxmox-helper-scripts%20&type=code), [Walk Smarter](https://github.com/NHL-P4-INF1C/WalkSmarter)
+- 🔭 I’m currently working on [Proxmox Helper Scripts Website](https://github.com/BramSuurdje/proxmox-helper-scripts), [Walk Smarter](https://github.com/NHL-P4-INF1C/WalkSmarter)
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Flutter**
 
